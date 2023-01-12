@@ -1,0 +1,33 @@
+body {
+    background-color: #E5E5E5;
+    opacity: 70%;
+}
+
+h1 {
+  position: absolute;
+  width: 517px;
+  height: 74px;
+  left: 306px;
+  top: 63px;
+  font-family: 'Fira Code';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 60px;
+  line-height: 79px;
+  color: #FFFFFF;
+}
+
+button {
+position: absolute;
+width: 111px;
+height: 25px;
+left: 521px;
+top: 196px;
+font-family: 'Fira Code';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 26px;
+color: #373737;
+}
+
